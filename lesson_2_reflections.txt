@@ -26,10 +26,28 @@ If I have 1 logical change that I'd like to keep, then it is time to commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When I want to implemenet different versions of my code
+
+
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams shows where the branch splits and where they merge.
+I mean this is the function of a diagram , to help visualize 
+so I don't really unserstand the quesion.
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It gives a new commmit containing the changes done in both branches
+all the way. It is represented as the point of meeting of the 2 independant branches.
+
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pro: easy and fast
+cons: may lead to unwanted results in some cases.
